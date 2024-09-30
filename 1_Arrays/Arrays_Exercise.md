@@ -41,5 +41,5 @@ Using this find out,
 3. Create a list of all odd numbers between 1 and a max number.
 Max number is something you need to take from a user using input() function
 
-[Solution](soon)
+[Solution](https://github.com/Iqram09/data-structures-algorithms-python/blob/main/1_Arrays/Solution/odd_even_numbers.py)
 
