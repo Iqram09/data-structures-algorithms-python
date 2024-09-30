@@ -35,7 +35,7 @@ Using this find out,
        Do that with one line of code.
     5. Sort the heros list in alphabetical order (Hint. Use dir() functions to list down all functions available in list)
 
-[Solution](soon)
+[Solution](https://github.com/Iqram09/data-structures-algorithms-python/blob/main/1_Arrays/Solution/marvel.py)
 
 
 3. Create a list of all odd numbers between 1 and a max number.
